@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Arrows" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="24a084e7:16efed9bd39:-8000" />
+    <option name="version" value="4.11.2" />
+    <option name="tabHighlightPosition" value="Full" />
+  </component>
+</application>
