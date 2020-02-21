@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="WATCH_RETURN_VALUES" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -78,7 +79,9 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
