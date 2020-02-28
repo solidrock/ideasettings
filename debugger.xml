@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="WATCH_RETURN_VALUES" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -79,9 +78,7 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <unmute-on-stop>true</unmute-on-stop>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
@@ -91,11 +88,6 @@
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
-      <debugger id="oracle">
-        <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>
