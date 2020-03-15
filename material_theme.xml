@@ -8,12 +8,11 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="useHollowFolders" value="false" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="999a9a" />
+    <option name="accentColor" value="ffd866" />
     <option name="secondAccentColor" value="cb4930" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="48d0adfb:16e9175b8ab:-8000" />
