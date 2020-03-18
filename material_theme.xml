@@ -9,14 +9,15 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="useHollowFolders" value="false" />
     <option name="tabsHeight" value="20" />
-    <option name="accentColor" value="79cb60" />
+    <option name="accentColor" value="999a9a" />
     <option name="secondAccentColor" value="cb4930" />
     <option name="highlightColor" value="f81cce" />
-    <option name="selectedTheme" value="GITHUB" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="48d0adfb:16e9175b8ab:-8000" />
     <option name="version" value="4.11.5" />
     <option name="tabHighlightPosition" value="Bottom" />
