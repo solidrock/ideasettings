@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeMetricsConfiguration">
+    <option name="metricsForLambdaExpression" value="true" />
+  </component>
+</application>
