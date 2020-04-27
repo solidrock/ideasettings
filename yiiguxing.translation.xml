@@ -1,0 +1,9 @@
+<application>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Cascadia Code" />
+    <option name="primaryFontFamily" value="JetBrains Mono" />
+  </component>
+</application>
