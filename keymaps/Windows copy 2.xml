@@ -3,9 +3,13 @@
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
   <action id="Graph.ApplyCurrentLayout" />
+  <action id="MavenHelper.QuickRunMavenGoal" />
   <action id="ParserActionId" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="ShiftDownMoreAction" />
 </keymap>
