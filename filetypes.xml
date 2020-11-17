@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="swf" type="Native" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
