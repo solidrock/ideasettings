@@ -3,6 +3,12 @@
     <option name="alternativeKeymap">
       <KeymapDescription>
         <option name="displayText" value="for Mac" />
+        <option name="name" value="$default" />
+      </KeymapDescription>
+    </option>
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="Windows copy 2" />
       </KeymapDescription>
     </option>
   </component>
