@@ -3,6 +3,12 @@
   <action id="ChangesView.Move" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="Graph.ApplyCurrentLayout" />
   <action id="MavenHelper.QuickRunMavenGoal" />
   <action id="ParserActionId" />
