@@ -16,7 +16,7 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="actions" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
         <entry key="basic completion" value="PASSED" />
         <entry key="class search" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="PASSED" />
@@ -24,12 +24,12 @@
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
-        <entry key="comment line" value="NOT_PASSED" />
+        <entry key="comment line" value="PASSED" />
         <entry key="completion with tab" value="PASSED" />
         <entry key="context.actions" value="PASSED" />
         <entry key="debug function calls" value="NOT_PASSED" />
         <entry key="declaration and usages" value="PASSED" />
-        <entry key="duplicate" value="NOT_PASSED" />
+        <entry key="duplicate" value="PASSED" />
         <entry key="editorbasics.deleteline" value="NOT_PASSED" />
         <entry key="editorbasics.selection" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
@@ -60,7 +60,7 @@
         <entry key="java.refactoring.menu" value="NOT_PASSED" />
         <entry key="java.run.configuration" value="PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
-        <entry key="move" value="NOT_PASSED" />
+        <entry key="move" value="PASSED" />
         <entry key="multiple selections" value="PASSED" />
         <entry key="navigation.declaration/implementation" value="NOT_PASSED" />
         <entry key="navigation.filestructure" value="NOT_PASSED" />
@@ -75,11 +75,11 @@
         <entry key="refactorings.refactoringbasics" value="NOT_PASSED" />
         <entry key="refactorings.rename" value="PASSED" />
         <entry key="rename" value="NOT_PASSED" />
-        <entry key="search everywhere" value="NOT_PASSED" />
-        <entry key="select" value="NOT_PASSED" />
+        <entry key="search everywhere" value="PASSED" />
+        <entry key="select" value="PASSED" />
         <entry key="smart type completion" value="PASSED" />
         <entry key="statement completion" value="PASSED" />
-        <entry key="surround and unwrap" value="NOT_PASSED" />
+        <entry key="surround and unwrap" value="PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
