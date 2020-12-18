@@ -21,7 +21,7 @@
         <entry key="class search" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
-        <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
+        <entry key="codeassistance.parameterinfo" value="PASSED" />
         <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
         <entry key="comment line" value="PASSED" />
@@ -33,7 +33,7 @@
         <entry key="editorbasics.deleteline" value="NOT_PASSED" />
         <entry key="editorbasics.selection" value="NOT_PASSED" />
         <entry key="extract method" value="NOT_PASSED" />
-        <entry key="extract variable" value="NOT_PASSED" />
+        <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
@@ -55,9 +55,9 @@
         <entry key="gophercon.rename" value="NOT_PASSED" />
         <entry key="hippie completion" value="NOT_PASSED" />
         <entry key="java.debug.workflow" value="NOT_PASSED" />
-        <entry key="java.inheritance.hierarchy.lesson" value="NOT_PASSED" />
+        <entry key="java.inheritance.hierarchy.lesson" value="PASSED" />
         <entry key="java.occurrences.lesson" value="PASSED" />
-        <entry key="java.refactoring.menu" value="NOT_PASSED" />
+        <entry key="java.refactoring.menu" value="PASSED" />
         <entry key="java.run.configuration" value="PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
         <entry key="move" value="PASSED" />
