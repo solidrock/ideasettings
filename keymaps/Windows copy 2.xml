@@ -1,5 +1,6 @@
 <keymap version="1" name="Windows copy 2" parent="$default">
   <action id="AliP3CInspectionAction" />
+  <action id="CWMHostShowPopupAction" />
   <action id="ChangesView.Move" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
