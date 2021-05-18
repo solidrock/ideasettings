@@ -35,6 +35,7 @@
         <entry key="extract method" value="NOT_PASSED" />
         <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="PASSED" />
+        <entry key="find in files" value="NOT_PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
         <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
