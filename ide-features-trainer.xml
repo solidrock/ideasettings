@@ -7,11 +7,6 @@
   </component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
-    <option name="languageToProjectMap">
-      <map>
-        <entry key="JAVA" value="D:\Devtools\JetBrains\Config\idea\config\demo\IdeaLearningProject" />
-      </map>
-    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -21,6 +16,7 @@
         <entry key="class search" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="PASSED" />
         <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
@@ -36,6 +32,13 @@
         <entry key="extract variable" value="PASSED" />
         <entry key="file structure" value="PASSED" />
         <entry key="find in files" value="NOT_PASSED" />
+        <entry key="git.annotate" value="NOT_PASSED" />
+        <entry key="git.basicworkflow" value="NOT_PASSED" />
+        <entry key="git.changelistsandshelf" value="NOT_PASSED" />
+        <entry key="git.commit" value="NOT_PASSED" />
+        <entry key="git.interactiverebase" value="NOT_PASSED" />
+        <entry key="git.projecthistory" value="NOT_PASSED" />
+        <entry key="git.quickstart" value="NOT_PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
         <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
